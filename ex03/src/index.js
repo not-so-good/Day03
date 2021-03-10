@@ -2,5 +2,5 @@ function main() {
     var forCat;
 
 }
-main();
+console.log(main());
 module.exports = main;
