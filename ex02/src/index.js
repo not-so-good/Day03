@@ -7,5 +7,5 @@ function main() {
     This is me commentig in a multi-line*/
 
 }
-main();
+console.log(main());
 module.exports = main;
